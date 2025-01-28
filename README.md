@@ -52,7 +52,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/shahul-hameedk-1115/AWS-Session-01.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
